@@ -29,9 +29,9 @@
 # 📈 Estatísticas GitHub
 
 <div>
-<a href="https://github.com/laura853">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Laura853">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura853&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Laura853&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <img width="200" height="200" alt="octocat-1754012284007" src="https://github.com/user-attachments/assets/ec0c1bbb-14e7-4409-9875-a8386510714c" />
